@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranayu Kumar Shrivastava
 - 👀 I’m interested in cybersecurity 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Ethical Hacking
 
 
 <!---
