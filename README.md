@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Pranay Kumar Shrivastava
 - 👀 I’m interested in cybersecurity and Development 
-- 🌱 I’m currently learning Web development
-- 
 
 
 <!---
