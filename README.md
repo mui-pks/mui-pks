@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Web security**
 
-- 📫 How to reach me **pranaykumar1604@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
